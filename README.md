@@ -1,2 +1,3 @@
 # travis-test-python
-TravisCI Python test
+
+First attempt at running Python under TravisCI
