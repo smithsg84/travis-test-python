@@ -1,6 +1,6 @@
 # python -m unittest tests.TestMyClass
 import unittest
-from MyClass import MyClass
+from myexample import MyClass
 
 class TestMyClass(unittest.TestCase):
 
